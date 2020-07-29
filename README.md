@@ -1,6 +1,6 @@
 # Magento2 Clean Logs and Reports in table
 
-Foobar is a Python library for dealing with word pluralization.
+Cleaner logs and reports in magento tables
 
 ## Installation
 

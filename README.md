@@ -7,7 +7,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 
 ```bash
-composer install israel/clean-logs
+composer install israel/magento2-clean-logs
 php bin/magento setup:upgrade
 ```
 

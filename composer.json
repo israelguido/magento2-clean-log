@@ -1,0 +1,27 @@
+{
+  "name": "israel/clean-logs",
+  "description": "Limpeza de logs das tabelas do Magento",
+  "keywords": [ "israel", "clear", "clean", "logs"],
+  "homepage": "https://israelguido.com.br",
+  "license": "MIT",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": ["MIT"],
+  "authors": [
+    {
+      "name": "Israel Guido",
+      "email": "israelguido@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "~7.1.3|~7.2.0",
+    "magento/framework": "~100.0.4"
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Israel\\CleanLog\\": ""
+    }
+  }
+}
+

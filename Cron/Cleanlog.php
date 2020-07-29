@@ -2,7 +2,7 @@
 /**
  *  script by israelguido@gmail.com
  */
-namespace Danone\CleanLog\Cron;
+namespace Israel\CleanLog\Cron;
 
 use Psr\Log\LoggerInterface;
 
